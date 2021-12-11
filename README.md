@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmedkalsh
-- 👀 I’m interested in Website coding
-- 🌱 I’m currently learning VS coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email: ahmed.alwaan@outlook.com
+- 👀 I’m interested in Website and games coding.
+- 🌱 I’m currently learning CSS 
+- 📫 How to reach me?
+- my Email: ahmed.alwaan@outlook.com
